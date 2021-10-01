@@ -29,3 +29,14 @@
   background-color: white;
   list-style: none;
 }
+
+.button {
+  margin-bottom: 1rem;
+  width: 90px;
+  height: 40px;
+  background-color: teal;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
