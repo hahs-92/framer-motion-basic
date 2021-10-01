@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion'
 
-const Box1 = () => {
+const Box2 = () => {
     return(
         <article className='box-container'>
-            <motion.div 
+            <motion.div
                 className='box'
                 drag
                 dragConstraints={{
@@ -24,4 +24,4 @@ const Box1 = () => {
     )
 }
 
-export default Box1
+export default Box2
